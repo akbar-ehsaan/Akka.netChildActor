@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ESMjC8QZ7WWBhE97Q/KG04ar18op7yIN72shWh/mG0Om08V0a/EzIhBOdvhQoGPXTEp9undct1htIvDZByMSA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\e.akbar\\source\\repos\\Akka.netHierarachies\\Akka.netHierarachies\\Akka.netHierarachies.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\e.akbar\\.nuget\\packages\\akka\\1.4.46\\akka.1.4.46.nupkg.sha512",
+    "D:\\Users\\e.akbar\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.5\\microsoft.extensions.objectpool.5.0.5.nupkg.sha512",
+    "D:\\Users\\e.akbar\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "D:\\Users\\e.akbar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "D:\\Users\\e.akbar\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "D:\\Users\\e.akbar\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "D:\\Users\\e.akbar\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "D:\\Users\\e.akbar\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "D:\\Users\\e.akbar\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "D:\\Users\\e.akbar\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "D:\\Users\\e.akbar\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "D:\\Users\\e.akbar\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512",
+    "D:\\Users\\e.akbar\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
